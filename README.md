@@ -1,5 +1,5 @@
 # Sorting Visualization
-### This is a simple visualization project made using javascript 
+### Visualization Project using JavaScript(Pure) 
 - Bubble Sort 
 - Selection Sort
 - Insertion Sort
@@ -8,7 +8,7 @@
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
-[Check out the website here](https://abhishekprakash5.github.io/Sorting-Visualization/)
+[Check out the website here](https://kp2141.github.io/Sorting_Visualizer/)
 
 <img src="img/img1.png"> <br/>
 <img src="img/img2.png"> <br/>
